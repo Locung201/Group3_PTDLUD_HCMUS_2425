@@ -1,29 +1,33 @@
-# Group3_PTDLUD_HCMUS_2425
-HCMUS_CSC12110 – Phân tích dữ liệu ứng dụng  ĐỒ ÁN THỰC HÀNH #1
+# 🌟 **Group3_PTDLUD_HCMUS_2425**  
+HCMUS_CSC12110 – **Applied Data Analysis** 📝 **PRACTICAL ASSIGNMENT #1**  
 
-THÔNG TIN VỀ ĐỒ ÁN
+## 📚 **PROJECT INFORMATION**  
 
-Mã học phần: CSC12110 
+- **📅 Course Code**: CSC12110  
+- **📖 Course Title**: Applied Data Analysis  
+- **🗂️ Topic**: PRACTICAL ASSIGNMENT #1  
 
-Tên học phần: PHÂN TÍCH DỮ LIỆU ỨNG DỤNG
+### 📝 **Submission Format**:  
+- Submit the `.ipynb` file and a **Colab link** with edit access.  
+- Evaluate the participation rate of each member and provide full comments and conclusions.  
 
-Chủ đề: ĐỒ ÁN THỰC HÀNH #1
+### 💻 **Project Description**:  
 
-Hình thức:  
+1. **🔍 Data Exploration and Preprocessing**:  
+   Perform **EDA** to examine and handle missing data, duplicates, and outliers. Check the balance between the clicked and non-clicked ad labels.  
 
-Nộp file .ipynb và link Colab có quyền chỉnh sửa, đánh giá tỷ lệ tham gia của từng thành viên và đưa ra nhận xét, kết luận đầy đủ.
+2. **📊 Data Analysis**:  
+   Perform **univariate** and **bivariate** analysis; remove unnecessary attributes and analyze the click-through rate based on factors such as **age**, **income**, and **gender**.  
 
-Mô tả:
+3. **👨‍💻 User Behavior Observation**:  
+   Analyze **website usage time** by age, income, geographic location, and time of day. Comment on the most popular ad topics.  
 
-1. Khám phá và tiền xử lý dữ liệu: Thực hiện EDA để kiểm tra và xử lý dữ liệu missing, trùng lặp, và outliers. Kiểm tra sự cân bằng giữa nhãn click/không click quảng cáo.
+4. **🛠️ Build Prediction Models**:  
+   Implement at least **two prediction models** for ad click prediction to compare them. Evaluate the impact of the **income** attribute on prediction performance and identify key features.  
 
-2. Phân tích dữ liệu: Thực hiện phân tích đơn biến và hai biến; loại bỏ thuộc tính không cần thiết và phân tích tỷ lệ click quảng cáo theo các yếu tố như tuổi, thu nhập, giới tính.
+5. **📈 Model Evaluation**:  
+   Evaluate model quality using **cross-validation** with **precision**, **recall**, and **F1 scores** on both the **train** and **test** datasets. Select the **optimal model** and conclude.  
 
-3. Quan sát hành vi người dùng: Phân tích thời gian sử dụng website theo tuổi, thu nhập, vị trí địa lý và thời điểm trong ngày. Nhận xét về các chủ đề quảng cáo được quan tâm nhiều nhất.
-
-4. Xây dựng mô hình dự đoán: Cài đặt ít nhất hai mô hình dự đoán khả năng click quảng cáo của người dùng để so sánh. Đánh giá ảnh hưởng của thuộc tính thu nhập đến khả năng dự đoán và xác định các thuộc tính quan trọng.
-
-5. Đánh giá mô hình: Đánh giá chất lượng mô hình bằng cross-validation với các độ đo precision, recall, f1 trên tập train và test. Chọn mô hình tối ưu và nêu kết luận.
-
-Giảng viên phụ trách: Cô Hồ Thị Hoàng Vy, Cô Vũ Thị Mỹ Hằng
-
+### 👩‍🏫 **Instructors**:  
+- **Ms. Hồ Thị Hoàng Vy**  
+- **Ms. Vũ Thị Mỹ Hằng**  
