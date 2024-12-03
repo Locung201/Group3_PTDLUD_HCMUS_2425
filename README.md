@@ -1,6 +1,14 @@
 # 🌟 **Group3_PTDLUD_HCMUS_2425**  
 HCMUS_CSC12110 – **Applied Data Analysis** 📝 **PRACTICAL ASSIGNMENT #1**  
 
+## 👥 **TEAM INFORMATION**  
+
+| **MSSV**  | **Name**          | **Email**                          | **Notes** |  
+|-----------|-------------------|------------------------------------|-----------|  
+| 18127008  | Lê Mạnh Hoàng     | lmhoang18@clc.fitus.edu.vn         |           |  
+| 21127211  | Nguyễn Vũ Tường An| nvtan21@clc.fitus.edu.vn           |           |  
+| 21127699  | Lô Thủy Tiên      | lttien21@clc.fitus.edu.vn          |           |  
+
 ## 📚 **PROJECT INFORMATION**  
 
 - **📅 Course Code**: CSC12110  
